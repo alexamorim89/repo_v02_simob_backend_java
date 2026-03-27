@@ -1,0 +1,4 @@
+INSERT INTO perfil (tipo) VALUES ('ADMINISTRADOR');
+INSERT INTO perfil (tipo) VALUES ('ATENDENTE');
+INSERT INTO perfil (tipo) VALUES ('CORRETOR');
+INSERT INTO perfil (tipo) VALUES ('GERENTE');
