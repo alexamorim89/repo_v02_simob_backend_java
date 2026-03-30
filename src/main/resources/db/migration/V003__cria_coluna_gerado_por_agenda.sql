@@ -1,1 +1,0 @@
-ALTER TABLE visita ADD COLUMN gerado_por_agenda boolean NULL;
